@@ -1,0 +1,20 @@
+# Article 3 {#Article3}
+
+Rowley, T., & McCrudden, M. T. (2019). Retrieval practice and retention of course content in a middle school science classroom. Applied Cognitive Psychology, 34(6), 1510-1515.
+
+Factual Questions
+1.     Who were the participants in this study? (39 New Zealand children aged 11-13)
+2.     What was the dependent variable? (performance on the final test)
+3.     How long was the text read by the students? (672 words)
+4.     How do the researchers operationally define an idea unit? (correctly rewritten main ideas from the text)
+5.     Did students in the experimental condition perform better? At what probability level? (Yes, p < .05)
+6.     Did the number of idea units differ between groups? At what probability level? (No, p = .74)
+
+Discussion Questions
+1. 	In the introduction, do the authors make a strong argument against using re-reading as a study method?
+2. 	The authors identify their research question as “Does retrieval practice promote better retention of science content than copying one’s notes?” Does the literature review provide enough information about copying notes as a study method?
+3. 	The researchers used children as their sample and a science text on overfishing as their stimuli. Would you be willing to generalize the results to all school subjects and to college-aged students?
+4. 	The researchers highlight the fact that they performed the study “in an authentic classroom.” Why might this be important?
+5. 	The authors indicate low power (.58) but indicate that it is compensated for by a large effect size (d = .71). Given your understanding of power, is this conclusion correct?
+6. 	Has this study convinced you to use retrieval practice as a personal study method?
+

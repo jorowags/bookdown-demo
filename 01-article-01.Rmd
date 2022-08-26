@@ -1,0 +1,63 @@
+# Article 1 {#Article1}
+
+Keres, A., & Chartier, C. (2016). The biasing effects of visual background on perceived facial trustworthiness. Psi Chi Journal of Psychological Research, 21(3), 170-175.
+
+Factual Questions
+How many participants did the authors need to recruit for the study in order to detect a medium effect across three groups? 52
+Who were the participants for this study? 59 undergraduate students > 18 yo from Introductory Psychology courses at a small, midwestern university.
+What was the dependent variable in the study? Ratings of trustworthiness, attractiveness, and aggression.
+How many pictures did each participant see? 6. 
+Were trustworthy faces rated as more attractive than other faces? If so, at what significance level? Yes, p < .001.
+In what way did this study extend the Rule et al. (2013) findings? By demonstrating the powerful effect of context.
+Discussion Questions
+The authors chose not to collect demographic information about the participants. Do you agree with this decision? Why or why not?
+In the first paragraph of the discussion the authors state that their effect “strongly replicated the findings of Rule et al. (2013) in a quite different student sample.” What do you think this means? Do you think that it’s important that we know this? Why or why not?
+The authors state that one implication of this effect might be that police respond to a suspect differently when in impoverished versus wealthy areas because of their perceived aggressiveness of the suspect. What is another implication?
+Pick out a term in the statistical analysis that looks unfamiliar or confusing to you. Google the term and then describe what you learn about it.
+Why were the pictures of the faces small and the pictures of the houses large?
+Do you think this study would replicate in a different demographic? Why or why not?
+
+Jared
+Factual
+One of…?
+How many participants were there? 
+How were participants recruited? 
+Was there an equal number of males and females? 
+How many scales did participants fill out about themselves? 
+Was the Dark Triad correlated with cat dominance? If it was, was it positive or negative? If significant, at what probability level? 
+Discussion
+The researchers required participants to have selected the cats themselves. Would you expect the results to be different if the cats had not been selected by their owners?
+The researchers provided no information about the reliability or validity of the measures they used. Does that concern you? Why / why not?
+What might have participants interpreted the item “How satisfied are you with your cat?”
+The researchers suggested that self-report items may be problematic. If you were redesigning the research, how would you deal with that issue?
+How would you change this research to look at a different type of pet? (e.g., fish)
+
+
+Alexis
+Introduction
+p 170 1st sentence:   	What does “moderator” mean?
+p 171 1st para: 	When does other info bias perception of faces?
+    171 last para: 	What is the research question? 
+
+Method (shouldn’t this be singular?)
+p 172 	Were backgrounds rated to confirm manipulation of wealthy v. impoverished environments? (no)
+Should a manipulation check have been done? (y)
+Last part of materials (starts w/ “Participants rated…” should not be in materials; it should be in procedure)
+What did participants do? 
+
+Results: 
+Did trustworthiness have an effect? 
+Did background have an effect? 
+What is the effect of 1 IV collapsing across the other IV called? (ME)
+Was there an interaction? 
+What did researchers do separate analyses of? (attractiveness and aggression)
+Why did the researchers do separate analysis on the variables you mentioned? (sig)
+p. 173   What additional information should graphs include? 
+Why was the ANOVA conducted appropriate? 
+What does d𝜂p2 tell us? 
+
+Discussion:
+p. 174 1st full paragraph
+	When would the court system see people in varying backgrounds as described?
+	What do you think a good follow-up study should look at? 
+
