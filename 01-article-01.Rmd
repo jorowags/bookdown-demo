@@ -2,19 +2,32 @@
 
 Keres, A., & Chartier, C. (2016). The biasing effects of visual background on perceived facial trustworthiness. Psi Chi Journal of Psychological Research, 21(3), 170-175.
 
-Factual Questions
-How many participants did the authors need to recruit for the study in order to detect a medium effect across three groups? 52
+## Factual Questions
+
+How many participants did the authors need to recruit for the study in order to detect a medium effect across three groups? _52_
+
 Who were the participants for this study? 59 undergraduate students > 18 yo from Introductory Psychology courses at a small, midwestern university.
+
 What was the dependent variable in the study? Ratings of trustworthiness, attractiveness, and aggression.
+
 How many pictures did each participant see? 6. 
+
 Were trustworthy faces rated as more attractive than other faces? If so, at what significance level? Yes, p < .001.
+
 In what way did this study extend the Rule et al. (2013) findings? By demonstrating the powerful effect of context.
-Discussion Questions
+
+## Discussion Questions
+
 The authors chose not to collect demographic information about the participants. Do you agree with this decision? Why or why not?
+
 In the first paragraph of the discussion the authors state that their effect “strongly replicated the findings of Rule et al. (2013) in a quite different student sample.” What do you think this means? Do you think that it’s important that we know this? Why or why not?
+
 The authors state that one implication of this effect might be that police respond to a suspect differently when in impoverished versus wealthy areas because of their perceived aggressiveness of the suspect. What is another implication?
+
 Pick out a term in the statistical analysis that looks unfamiliar or confusing to you. Google the term and then describe what you learn about it.
+
 Why were the pictures of the faces small and the pictures of the houses large?
+
 Do you think this study would replicate in a different demographic? Why or why not?
 
 Jared
